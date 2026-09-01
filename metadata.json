@@ -1,0 +1,6 @@
+{
+  "name": "Coremay",
+  "description": "AI-Powered Growth for Modern Commerce - An intelligent commerce agent that helps merchants increase revenue through personalized recommendations, conversational shopping, and AI-assisted sales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
